@@ -1,4 +1,3 @@
-
 //CONSTRUCTOR DE PUESTOS
 function Puesto(nombre, tareas) {
   this.nombre = nombre;
